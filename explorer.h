@@ -1,0 +1,4 @@
+#ifndef MANDELBROT_EXPLORER_H
+#define MANDELBROT_EXPLORER_H
+void explorer();
+#endif //MANDELBROT_EXPLORER_H
